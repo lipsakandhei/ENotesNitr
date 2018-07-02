@@ -1,0 +1,48 @@
+Enter the input zealle+le
+Syntax Direzted Translation
+
+
+
+Stazk
+
+
+
+$Id
+$1
+$Id
+$1
+$E
+“I
+$E/d
+$E/1
+$E/1d
+$E/1
+$E/E
+$E
+$E+
+$E+d
+$E+I
+$E+Id
+$E+I
+$E+E
+$E
+33
+
+23 a
+zen
+zen
+zen
+2881
+2881
+zen 1 a
+zen 18
+zen 18
+23
+
+23
+231
+231
+23 1 a
+23 18
+23 18
+33

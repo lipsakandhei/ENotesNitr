@@ -1,0 +1,60 @@
+enter the number of produztions
+9
+
+enter the produztions
+
+"org: hter epsilon produztions of eazh variable if any after the hon epsilon produztion
+for epsilon enter :9
+
+sr>Aac
+
+Ar)a
+
+Ar)(
+
+Ar)@
+
+a7)»
+
+Br)d
+
+3,)@
+
+Cr)&
+
+Cr)f
+
+
+
+enter the variable whose first is to be found out
+5
+
+first ofs i :
+
+
+
+a ( b a e f
+enter y to (ontinue
+h to terminate
+
+y
+
+enter the variable whose first is to be found out
+A
+
+first of A is:
+
+a ( 9
+enter y to (ontinue
+h to terminate
+
+y
+
+enter the variable whose first is to be found out
+a
+
+first
+
+
+
+b d e
